@@ -19,7 +19,7 @@ class BinaryToDecimal {
     //   System.out.println( b + " = " + decimalNumber);
 
     String binary = "1011";
-    
+
     
     int decimal = Integer.parseInt(binary, 2);
     System.out.println("Binary to Decimal");

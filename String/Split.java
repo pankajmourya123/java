@@ -2,7 +2,9 @@ package String;
 
 public class Split {
     public static void main(String[] args) {
-        StringBuilder  s = new StringBuilder("pankaj shivam ritik vivek");
-       char ch
+       String str = "GeeksforGeeks A to computer to science to portal for geeks ";
+        String str2=" ";
+ 
+        String a[] = str.split(" ");
     }
 }

@@ -6,11 +6,7 @@ public static void main(String []args) {
     while(t>0){
         rem= t% 2;
         t/= 2;
-    r=rem+r;
-
-        
-    
-    
+    r=rem+r;    
 }  
 System.out.println(r); 
 }

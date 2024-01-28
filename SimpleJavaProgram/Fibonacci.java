@@ -7,7 +7,7 @@ public static void main(String []args) {
         System.out.print("Enter last number ");
         int last = sc.nextInt();
         System.out.print(a+" "+b);
-    for(int i=1;i<=last;i++){
+    for(int i=2;i<=last;i++){
         c=a+b;
         System.out.print(" "+c);
         a=b;
