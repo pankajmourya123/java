@@ -9,7 +9,7 @@ public class Name {
   if(i>n){
     return;
   }
-System.out.println("pankaj");
+// System.out.println("pankaj");
 printName(i+1, n);
 
  }

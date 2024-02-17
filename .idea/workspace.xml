@@ -2,17 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b46e314-1ea2-4f16-b735-79661280d7da" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Check.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleJavaProgram/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleJavaProgram/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleJavaProgram/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleJavaProgram/PrimeRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleJavaProgram/PrimeRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleJavaProgram/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleJavaProgram/Swap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/Split.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/Split.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linklisted/Ques2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linklisted/Ques2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linklisted/Reverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linklisted/Reverser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/ReverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/ReverseNumber2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/number.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/number1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/number1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/Maxoccurance2.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/Maxoccurance2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Tuyh0O6FZGwiO2R0IogAgcUASi" />
   <component name="ProjectViewState">
@@ -21,7 +28,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,5 +42,16 @@
       <updated>1691907379940</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Timepass.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

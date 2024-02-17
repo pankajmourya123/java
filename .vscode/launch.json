@@ -6,6 +6,160 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Nsubset",
+            "request": "launch",
+            "mainClass": "Recursion.Nsubset",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Countpath",
+            "request": "launch",
+            "mainClass": "Recursion.Countpath",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Permutationstring",
+            "request": "launch",
+            "mainClass": "Recursion.Permutationstring",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "ArrowRotations",
+            "request": "launch",
+            "mainClass": "ArrowRotations",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "mobilekeypad",
+            "request": "launch",
+            "mainClass": "Recursion.mobilekeypad",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Strsubsequni",
+            "request": "launch",
+            "mainClass": "Recursion.Strsubsequni",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "SubsquenceStr",
+            "request": "launch",
+            "mainClass": "Recursion.SubsquenceStr",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDup",
+            "request": "launch",
+            "mainClass": "Recursion.RemoveDup",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "MovesX",
+            "request": "launch",
+            "mainClass": "Recursion.MovesX",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Issorted",
+            "request": "launch",
+            "mainClass": "Recursion.Issorted",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "FirstLast",
+            "request": "launch",
+            "mainClass": "Recursion.FirstLast",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Countzero",
+            "request": "launch",
+            "mainClass": "Recursion.Countzero",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Sumofdigit",
+            "request": "launch",
+            "mainClass": "Recursion.Sumofdigit",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "Recursion.ReverseArray",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "findOcurren",
+            "request": "launch",
+            "mainClass": "Recursion.findOcurren",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "revernumber",
+            "request": "launch",
+            "mainClass": "Recursion.revernumber",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "reverString",
+            "request": "launch",
+            "mainClass": "Recursion.reverString",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Towerofhonai",
+            "request": "launch",
+            "mainClass": "Recursion.Towerofhonai",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "meanarr",
+            "request": "launch",
+            "mainClass": "Recursion.meanarr",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "xpowern",
+            "request": "launch",
+            "mainClass": "Recursion.xpowern",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Fibnoacci",
+            "request": "launch",
+            "mainClass": "Recursion.Fibnoacci",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Timepass",
+            "request": "launch",
+            "mainClass": "Timepass",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
             "name": "Test",
             "request": "launch",
             "mainClass": "Test",

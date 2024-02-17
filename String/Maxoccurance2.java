@@ -27,5 +27,18 @@ public class Maxoccurance2 {
             }
         }
         System.out.println(maxChar);
+
+
+//         String   num = "6777133339";
+//       char maxchar = '\0'; 
+// HashMap <Character,Integer> hm=new HashMap<>();
+// for (int i = 0; i < num.length(); i++) {
+//     hm.put(num.charAt(i),hm.getOrDefault(num.charAt(i), 0)+1);
+//     if(hm.getOrDefault(num.charAt(i), 0)>1 && num.charAt(i)>maxchar){
+//         maxchar=num.charAt(i);
+//     }
+// }
+
+// System.out.println(String.valueOf(maxchar).repeat(3));
     }
 }

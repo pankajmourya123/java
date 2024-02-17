@@ -40,10 +40,10 @@ public class Ques2 {
         while (currNode != null) {
             if (currNode.data > threshold) {
                 if (prevNode == null) {
-                    // If the node to be deleted is the head
+                    
                     head = currNode.next;
                 } else {
-                    // If the node to be deleted is not the head
+                    
                     prevNode.next = currNode.next;
                 }
                 size--;
