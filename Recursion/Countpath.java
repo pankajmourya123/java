@@ -1,3 +1,9 @@
+
+// Problem Statement:
+// You are given a grid of size 
+// m×n. You are initially at the top-left cell 
+// (0,0) and you want to reach the bottom-right cell 
+// (m−1,n−1). You can only move either right or down at each step. You need to find the number of unique paths from the top-left cell to the bottom-right cell.
 package Recursion;
 
 public class Countpath {
