@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Implementation",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.Implementation",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreesYT",
+            "request": "launch",
+            "mainClass": "BinaryTree.BinaryTreesYT",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Levelorder",
+            "request": "launch",
+            "mainClass": "BinaryTree.Levelorder",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "implementation",
+            "request": "launch",
+            "mainClass": "BinaryTree.implementation",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Linearsearch",
+            "request": "launch",
+            "mainClass": "Recursion.Linearsearch",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Addatlast",
+            "request": "launch",
+            "mainClass": "Stack.Addatlast",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStack",
+            "request": "launch",
+            "mainClass": "Stack.ReverseStack",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Binaryseacrh",
+            "request": "launch",
+            "mainClass": "Recursion.Binaryseacrh",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Findupper",
+            "request": "launch",
+            "mainClass": "Recursion.Findupper",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "MaxandMinarr",
+            "request": "launch",
+            "mainClass": "Recursion.MaxandMinarr",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Sumoftriangle",
+            "request": "launch",
+            "mainClass": "Recursion.Sumoftriangle",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
             "name": "Nsubset",
             "request": "launch",
             "mainClass": "Recursion.Nsubset",

@@ -22,7 +22,7 @@ public class Nsubset {
            return;
        }
 
-//add kiya
+      //add kiya
        findSubsets(n-1, subset);
        subset.add(n);
        //add nahi kiya
