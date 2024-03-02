@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "parallemstream",
+            "request": "launch",
+            "mainClass": "stream.parallemstream",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Parallemstream",
+            "request": "launch",
+            "mainClass": "stream.Parallemstream",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Anotherbasicmethods",
+            "request": "launch",
+            "mainClass": "stream.Anotherbasicmethods",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Basicmethods",
+            "request": "launch",
+            "mainClass": "stream.Basicmethods",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Flatmap",
+            "request": "launch",
+            "mainClass": "stream.Flatmap",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
             "name": "Implementation",
             "request": "launch",
             "mainClass": "BinarySearchTree.Implementation",
