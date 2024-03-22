@@ -8,7 +8,7 @@ public static void main(String []args) {
     System.out.println("enter a number");
     int num1=sc.nextInt();
     System.out.println("enter second number");
-    int num2=sc.nextInt();
+  int num2=sc.nextInt();
     System.out.println("choose one (+ ,- ,/ ,*)");
     String symbol=sc.next();
     switch (symbol) {

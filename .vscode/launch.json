@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Time",
+            "request": "launch",
+            "mainClass": "Time",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "DisconnectedDfs",
+            "request": "launch",
+            "mainClass": "DisconnectedDfs",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Allpathstod",
+            "request": "launch",
+            "mainClass": "Allpathstod",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "DFS",
+            "request": "launch",
+            "mainClass": "DFS",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Disconnectcomponents",
+            "request": "launch",
+            "mainClass": "Disconnectcomponents",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "BFS",
+            "request": "launch",
+            "mainClass": "BFS",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Undirectedweighted",
+            "request": "launch",
+            "mainClass": "Undirectedweighted",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Implementation",
+            "request": "launch",
+            "mainClass": "Implementation",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "UniqueSubstring",
+            "request": "launch",
+            "mainClass": "TIER.UniqueSubstring",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Startwith",
+            "request": "launch",
+            "mainClass": "TIER.Startwith",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Wordbreak",
+            "request": "launch",
+            "mainClass": "TIER.Wordbreak",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
+            "name": "Implementation",
+            "request": "launch",
+            "mainClass": "TIER.Implementation",
+            "projectName": "java_23a32127"
+        },
+        {
+            "type": "java",
             "name": "parallemstream",
             "request": "launch",
             "mainClass": "stream.parallemstream",

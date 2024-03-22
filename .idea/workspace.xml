@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b46e314-1ea2-4f16-b735-79661280d7da" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linklisted/Ques2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linklisted/Ques2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linklisted/Reverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linklisted/Reverser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/ReverseNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/ReverseNumber2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/number.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/number1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/number1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/Maxoccurance2.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/Maxoccurance2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/Levelorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/Levelorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleJavaProgram/BinaryToDeimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleJavaProgram/BinaryToDeimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleJavaProgram/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleJavaProgram/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream/Parallemstream.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream/Parallemstream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +22,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

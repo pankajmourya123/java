@@ -36,7 +36,7 @@ public class Levelorder{
                    Node curr = q.remove();
                    if(curr == null) {
                        System.out.println();
-                       //queue empty
+                      
                        if(q.isEmpty()) {
                            break;
                        } else {

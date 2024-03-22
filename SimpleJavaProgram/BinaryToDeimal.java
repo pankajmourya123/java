@@ -25,6 +25,9 @@ class BinaryToDecimal {
     System.out.println("Binary to Decimal");
       System.out.println( binary + " = " + decimal);
 
+
+      
+
     }  
      
   }
